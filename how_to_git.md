@@ -10,9 +10,10 @@
 2. git commit -m "comment"
 3. git push origin
 
+## 最新の情報をもってくる
+1. git fetch
+2. git checkout -b <new_branch> origin/<work branch>
+3. 作業する
+4. アップロードする
 
-
-
-
-
-unnko
+unchi
